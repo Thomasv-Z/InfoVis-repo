@@ -1,3 +1,3 @@
-# jupyter-book-template
+# Data Story Project Jupyter Book - Group 55
 
-This repository hosts the tutorial and template code for building a basic Jupyter Book website.
+This repository hosts the data story project of group 55.
