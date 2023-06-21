@@ -1,8 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Jupyter Data Story Project # Change this to your book title.
-author: Thomas van Zuilen # Change this to your name (or your team/organization name).
+title: Jupyter Data Story Project - Group 55 # Change this to your book title.
+author: Niffyn Trouw, Max Kowalchuk & Thomas van Zuilen # Change this to your name (or your team/organization name).
+copyright: '2023'
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
