@@ -15,9 +15,7 @@ latex:
   latex_documents:
     targetname: book.tex
 
-sphinx:
-  config:
-    bibtex_bibfiles: "docs/references.bib"
+bibtex_bibfiles: docs/references.bib
 
 # Information about where the book exists on the web
 repository:
